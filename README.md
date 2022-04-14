@@ -2,7 +2,7 @@
 
 This notebook works on applying Linear Regression using Gradient Descent Algorithm to predict Weight of fish.
 
-# Gradient Descent Algoithm: 
+# Gradient Descent Algorithm: 
 ```
 Input: Y,theta, X, alpha, tolerance, max iterations
 Output: theta
